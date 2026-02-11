@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+pillow
+python-multipart
+reportlab
+jinja2
